@@ -1,1 +1,1 @@
-hack
+<script>alert(document.domain)</script>
